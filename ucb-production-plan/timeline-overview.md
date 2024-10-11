@@ -1,160 +1,71 @@
-# Game Development 8-week Project Timeline
-
-A suggested approach and schedule to complete your team project within 8 weeks.
+# 8-week Project Timeline
+# The Berkeley way
 
 ## Milestones
 
-During the course of your project, you'll have to complete various milestones. These are the "industry standard" milestones. Adjust as necessary, knowing that your team will be ahead of schedule at some points and behind at others. Use this as guidelines for progress, not as assignment due dates.
+The Berkeley method moves you out of each milestone with a playtest deliverable. At each milestone, your team will showcase your game and have your game be playtested. Each playtest will require a set of questions that you want playtesters to answer. One of your earliest tasks is to coordinate as a team and come up with a schedule to meet these deadlines.
 
-* Milestone 0: [Explanation and Expectations](milestone0.md)
-* Milestone 1: [Concept Pitch and Team Formation](milestone1.md)
-* Milestone 2: [Design](milestone2.md)
-* Milestone 3: [Prototype](milestone3.md)
-* Milestone 4: [Iterative Development and Playtesting](milestone4.md)
-* Milestone 5: [Finalize Development and Trailer](milestone5.md)
-* Milestone 6: [Publishing and Judging](milestone6.md)
+* Milestone 0: [Game Design Doc](milestone0.md)
+* Milestone 1: [MVP Playtest](milestone1.md)
+* Milestone 2: [Alpha Playtest](milestone2.md)
+* Milestone 3: [Beta Playtest](milestone3.md)
+* Milestone 4: [Final Submission](milestone4.md)
 
 ✨Showcase is Monday, December 9th 🌠
 
 ## Suggested Work Schedule
-A sprint is 2 weeks
 
-- Milestone 0: **(1) day**, completed by 7/19
-- Milestone 1: **(1) sprint**, completed by 8/2
-- Milestone 2: **(1) sprint**, completed by 8/16  
-- Milestone 3: **(2) sprint**, completed by 9/13 
-- Milestone 4: **(4) sprint**, completed by 11/8 
-- Milestone 5: **(1) sprint**, completed by 11/22
-- Milestone 6: **(1) sprint**, completed by 12/6 
+- Milestone 0: completed by 10/18
+- Milestone 1: completed by 10/25
+- Milestone 2: completed by 11/08  
+- Milestone 3: completed by 11/22
+- Milestone 4: completed by 12/06 
 
 ## Suggested Sprints
 
-[**Day 0: Explanation and Expectation**](milestone0.md)
+### [Milestone 0: Game Design Doc](milestone0.md)
 
-Day 0: Today we just talk about what it means to be participate in this capstone group project.
+**To stay on schedule, you have 1 week to prepare this by 10/18**
 
->- What does it all mean?
->- Commitment and accountability
->- Communication and checking in with your team
->- Prioritization of work
+I think everyone is tired of being told to make game design documents. However, think of the design doc as two things. First, it serves as your first "playtest" inside your own head. As you're imagining the game playout to write down your description of it, you have your first opportunity to think through what works or doesn't work. Second, it's a great way to easily share your initial ideas with people. Let them read your design doc before you start talking about it, and then the conversation could be more useful.
 
+### [Milestone 1: MVP Playtest](milestone1.md)
 
-### [Milestone 1: Concept Pitch and Team Formation](milestone1.md)
+**To stay on schedule, you have 2 weeks to prepare this by 10/25**
 
-**Duration:** 1 sprint
+This is a playable prototype of your original pitch set forth in your game design document. At least two of the core mechancis in your game should be implemented, but no art is required.
 
-This milestone is about coming up with ideas for games, sharing them, discussing them, and deciding who goes on what team doing what job. 
+Playtest feedback will inform whether game will be fun at a mechanical level, and to learn how it can be improved if it's not shaping up to be what you anticipated.
 
-Completion of the milestone means you have a pitch post in #game-ideas and a team organized of at least 2 people, but no more than 4.
+### [Milestone 2: Alpha Playtest](milestone2.md)
 
-**Week 1**
->- Create pitch posts in #game-ideas
->- Discuss posts in #game-ideas
+**To stay on schedule, you have 2 weeks to prepare this by 11/08**
 
-**Week 2**
->- Form teams of 2-4 students based on preferred game idea and balanced roles in the team
+The alpha build should contain all mechanics in place and in a testable space. Your general art style should be decided upon by now, and you should have a few key art assets included in the build. You should have a basic level. You will have bugs.
 
-### [Milestone 2: Design](milestone2.md)
+Playtest feedback should inform your full game loop. Do your players like the slice of gameplay you provided them?
 
-**Duration:** 1 sprint
+### [Milestone 3: Beta Playtest](milestone3.md)
 
-This milestone is to clearly articulate the core tenants of design for the game idea into something like a game design document.
+**To stay on schedule, you have 2 weeks to prepare this by 11/22**
 
-Completion of this milestone means you have a game design document that everyone on the team has contributed to based on their role.
+The beta build should be mostly complete at this point. You should have completed a first pass on all art assets and they should be in the game. There can and will be bugs, but the game should be starting to look like a final project at this point. 
 
-**Week 1**
+Playtest feedback should inform your difficulty tuning, the feel of interacting with all mechanics, and your overall art/audio aesthetic.
 
->- Create a design around the original pitch concept:
->   * How does it play?
->   * What does it look like?
->   * Create the first draft of the design doc
+### [Milestone 4: Final Submission](milestone4.md)
 
-**Week 2**
->- Refine the design:
->   * Incorporate/reject discussion feedback
->   * Imagine Minimum Viable Product (MVP)
+**To stay on schedule, you have 2 weeks to complete this by 12/06**
 
-### [Milestone 3: Prototype](milestone3.md)
+Finished project! Your game should be complete and congruent with your original pitch. It should be playable from start to finish with art in place and all gameplay performing as intended. You shouldn't have any game-breaking bugs for sure, and maybe only a few edge-cases exist that haven't been caught in testing. You likely know all the glitches in the game and are working to patch those up before showcase.
 
-This milestone is about creating and testing only what is necessary to prove that your game idea is worth building to completion. The prototype is also the MVP.
+Final checklist:
 
-Completion of this milestone is a prototype playtest. Someone should be able to play your game and understand the core concept of your original pitch.
+* Hosted online
+* 9x9 graphic with the game's title for showcase big screen
+* 30-60s trailer
+* Game Poster for showcase table (sheet of paper)
 
-**Duration:** 2 sprints
+Judging will begin when the project is flagged finished and winners will be declared after all submissions have been thoroughly playtested and vetted.
 
-**Week 1**
->   - Identify what core mechanics comprise the MVP
->   - Identify what concept art is needed to communicate game aesthetic
->   - Establish version control system
-
-**Week 2**
->   - Implement core mechanics for MVP
->   - Draft concept art
-
-**Week 3**
->   - Implement/adjust core mechanics for MVP
->   - Implement concept art only where needed for MVP comprehension
-
-**Week 4**
->   - Implement/adjust core mechanics for MVP
->   - Prototype playtest
-
-### [Milestone 4: Iterative Development and Playtesting](milestone4.md)
-
-This milestone is the core development time for your project. You are creating the game based off the feedback from the testing of your MVP and your concept of a vertical slice. You are building and incorporating assets. You are getting external playtesting periodically.
-
-Completion of this milestone is the alpha version of your game. It should be gameplay feature complete, but the content may not be fully implemented and there are likely some (major) bugs. An external playtester should be able to play through and complete your game.
-
-**Duration:** 4 sprints
-
-**Week 1**
->   - Identify gameplay vertical slice, extrapolate from MVP
->   - Identify first jobs for each member
-
-**Weekly**
->   - Communicate your next steps to your team
->   - Prioritize gameplay bugs
->   - Resolve any dependency blocks for your team
->   - Work on your next steps
->   - Incorporate your steps to the version
-
-**When appropriate**
->   - Organize external playtests
->   - Polish completed and implemented features
-
-### [Milestone 5: Finalize Development and Trailer](milestone5.md)
-
-This milestone is to wrap up content production and bug fixing. By this milestone your development of new features is long completed, and it should feel like you're tying up loose ends or polishing. Nothing new is being made.
-
-Completion of this milestone is the beta or early access release version of your game. To an external playtester it feels done. You may have a few remaining things to finish, but players wouldn't likely know what those tasks are.
-
-**Duration:** 1 sprint
-
-**Week 1**
->   - Complete all content
->   - Complete user interface, menus, etc.
->   - Complete any known bugs backlog
->   - Final external beta test
->   - Use editor and/or gameplay to capture footage for 90 second trailer
-
-**Week 2**
->   - Repair anything identified during final beta test
->   - Work on / complete trailer
-
-### [Milestone 6: Publishing and Judging](milestone6.md)
-
-This milestone is about hosting your finished game. Once hosted, games will be judged by peer review and the UCB council to determine which capstone project will be selected for the showcase.
-
-Completion of this milestone means you know whether your game will be shown at Berkeley, and you and your team should be there too with a working copy on the laptop! Congratulations!
-
-**Duration:** ~1 sprint
-
-**Week 1**
->   - Host on itch or somewhere similar
->   - Finalize gameplay trailer and other "marketing" materials for the published page
->   - Judging begins
-
-**Week 2** 
->   - Judging concludes
->   - Selections announced
->   - UCB Showcase happens
+Winners will be announced prior to the 12/09 showcase date.
